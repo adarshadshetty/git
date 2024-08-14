@@ -1,2 +1,1 @@
-# git
-gitPractice
+# myJan2021Repo
